@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximSaveliev&layout=compact&card_width=500&theme=tokyonight)](https://github.com/MaximSaveliev)
 <br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaximSaveliev&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaximSaveliev&theme=dark)](https://github.com/MaximSaveliev)
