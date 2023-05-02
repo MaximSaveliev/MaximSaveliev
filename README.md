@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximSaveliev&show_icons=true&theme=tokyonight&card_width=500)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximSaveliev&layout=compact&card_width=500&theme=tokyonight)](https://github.com/MaximSaveliev)
+<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaximSaveliev&theme=dark)](https://git.io/streak-stats)
