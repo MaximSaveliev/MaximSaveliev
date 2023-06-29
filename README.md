@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   
 </div>
 
-#### <img alt="Man Technologist" src="https://github.com/MaximSaveliev/MaximSaveliev/assets/60519187/c15b1d6a-59f3-4342-b03b-e0b895d8d26a" width="20px" height="20px" align="center"/> Operating Systems
+#### <img alt="Man Technologist" src="https://github.com/MaximSaveliev/MaximSaveliev/assets/60519187/c15b1d6a-59f3-4342-b03b-e0b895d8d26a" width="16px" height="16px" align="center"/> Operating Systems
 <div>
 
   <img alt="Windows" src="https://img.shields.io/badge/Windows-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/>
