@@ -76,6 +76,10 @@ Here are some ideas to get you started:
   
 </div>
 
+#### Business 
+- :paperclip: [My Resume/CV](https://github.com/MaximSaveliev/MaximSaveliev/blob/main/MyResume_2023.pdf)
+- :email: [maxim.saveliev@mail.ru](mailto:maxim.saveliev@mail.ru)
+
 <a href="https://github.com/MaximSaveliev" target="_blank"><img alt="Max Programmer" src="https://komarev.com/ghpvc/?username=MaximSaveliev&style=flat-square&label=Views&color=000000"/></a>
 <a href="https://github.com/MaximSaveliev" target="_blank"><img alt="Max Programmer" src="https://badges.pufler.dev/visits/char-al/maximsaveliev?color=black&logo=github&style=flat-square"/></a>
 
